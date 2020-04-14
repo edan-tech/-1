@@ -1,4 +1,3 @@
-//開始時間 2020 1/14 2:30
 #include <iostream>
 #include <cstring>
 using namespace std;
